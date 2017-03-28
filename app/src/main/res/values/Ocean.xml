@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BabyBlue">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#efefef</item>
+        <item name="android:background">#006699</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BabyBlue.BigBlue">
+        <item name="android:textSize">28sp</item>
+    </style>
+
+</resources>
